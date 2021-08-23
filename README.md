@@ -7,3 +7,5 @@ password length is between 8 - 128 characters long
 users can choose between upper case, lower case, numeric, and special characters.
 
 a screenshot of the app is located in the assets folder
+
+<img src="./assets/screenshot.jpg">
